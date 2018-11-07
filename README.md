@@ -1,6 +1,6 @@
 # familiarity-review
 
-Topics:
+**Topics:**
 
 Java Collections
 
