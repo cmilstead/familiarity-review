@@ -2,7 +2,7 @@
 
 **Topics:**
 
-[Java Collections](familiarity-review/java-collections.md)
+[Java Collections](https://github.com/cmilstead/familiarity-review/blob/master/java-collections.md)
 
 Threads, Executors, and Runnables	  	
 
