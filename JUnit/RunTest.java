@@ -1,3 +1,5 @@
+// Runs the tests as defined in the TestAssertions class and returns a value indicating success.
+
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
