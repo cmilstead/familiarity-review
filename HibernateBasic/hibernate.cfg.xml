@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 5.3//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-5.3.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+        <property name="hbm2ddl.auto">update</property>
+        <property name="dialect">org.hibernate.dialect.DB2Dialect</property>
+        <property name="connection.url">jdbc:db2:@localhost:50001:tdatabase</property>
+        <property name="connection.username">cmilstead</property>
+        <property name="connection.password">qcwWn8zAupj2</property>
+        <property name="connection.driver_class">com.ibm.db2.jcc.DB2Driver</property>
+        <mapping resource="student.hbm.xml"/>
+    </session-factory>
+
+</hibernate-configuration>
