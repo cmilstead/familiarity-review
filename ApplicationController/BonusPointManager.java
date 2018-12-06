@@ -41,7 +41,7 @@ public class BonusPointManager {
 			request = input.nextLine();
 		}
 		
-		System.out.println("Thank you for your business. Goodbye.");
+		System.out.println("Keep earning points! Best of luck.");
 	}
 
 }
